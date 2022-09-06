@@ -5,6 +5,6 @@
 ⌨In the future, I will implement new functions and bring everything to the end.
 
 
- ✔Let's call it v.1.0 - layout || HTML, CSS, JS 
+ ✔Let's call it v.1.0 - layout || HTML, CSS, JS, JQuery
  
  
